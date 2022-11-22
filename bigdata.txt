@@ -4,3 +4,6 @@ Scala
 Hive 
 Sqoop
 Flume
+Oozie 
+Kafka
+zookeeper
