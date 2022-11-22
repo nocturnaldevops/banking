@@ -1,2 +1,4 @@
 Linux and shell
 git and github
+Jenkins
+Docker
